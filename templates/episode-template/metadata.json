@@ -1,0 +1,28 @@
+{
+  "id": "00X",
+  "slug": "00X-speaker-topic-slug",
+  "title": "播客中文或原始标题",
+  "title_en": "English Title or Translation",
+  "host": "主持人名称",
+  "guests": [
+    "嘉宾姓名 1",
+    "嘉宾姓名 2"
+  ],
+  "release_date": "YYYY-MM",
+  "duration": "HH:MM:SS",
+  "language": "zh-CN / en-US / bilingual",
+  "links": {
+    "youtube": "https://www.youtube.com/watch?v=...",
+    "spotify": "https://open.spotify.com/episode/...",
+    "apple_podcasts": "https://podcasts.apple.com/..."
+  },
+  "topics": [
+    "核心主题 1",
+    "核心主题 2"
+  ],
+  "tags": [
+    "AI",
+    "Architecture",
+    "Entrepreneurship"
+  ]
+}
